@@ -1,0 +1,9 @@
+const Contact=()=>{
+
+    return(<>
+        <h2>Hello Contact</h2>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Officia error nemo repudiandae culpa vero voluptatibus, explicabo ut possimus corrupti, incidunt aliquid, ratione vel aliquam perspiciatis accusantium exercitationem aperiam? Repudiandae ab, voluptatibus hic consequatur facere iure neque sint porro odit ducimus cumque rerum. Praesentium soluta deleniti ratione delectus exercitationem in facilis ea eveniet ipsam vero tenetur molestiae, nihil suscipit libero ab alias. Illo error fugit odio labore perferendis veritatis, non quisquam quos veniam velit reiciendis eveniet rerum. Voluptates deserunt at similique voluptas ducimus adipisci quidem quod! Ducimus quisquam dolorem nobis doloribus possimus vitae similique non soluta nesciunt error, nulla, alias fugiat beatae necessitatibus inventore iusto obcaecati voluptates sit! Facilis, deleniti. Eum, odio! Repudiandae sequi labore minus, architecto blanditiis cum suscipit, officia hic sint magnam eum veritatis deleniti totam quibusdam consectetur, dolore obcaecati autem tempore nulla ullam. Dolor non voluptatum labore praesentium quasi modi, provident sed? Accusamus reprehenderit hic explicabo deleniti nobis? Nesciunt beatae officia dolores eum dolorem temporibus dolorum omnis, molestias perspiciatis sint magni, incidunt error, perferendis aliquid nobis praesentium tenetur ipsum animi nostrum. Magnam mollitia cum impedit, quis modi vitae fugit ratione animi, porro natus eius delectus voluptates nisi nemo qui nobis? Architecto, labore neque assumenda rerum dolorem temporibus laboriosam.</p>
+    </>)
+}
+
+export default Contact;

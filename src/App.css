@@ -1,0 +1,118 @@
+.box {
+  position: relative;
+  width: 580px;
+  height: 270px;
+  border: solid 1px gray;
+  border-radius: 10px;
+  padding: 25px;
+  margin: 25px;
+  font-size: 25px;
+  background: rgb(73, 126, 126);
+  
+  box-shadow: 0px 5px 2px gray;
+  text-align: center;
+  display: inline-block;
+  box-shadow: 2px 5px 5px rgb(75, 148, 148);
+}
+
+h2 {
+  font-size: 28px;
+  color: rgb(101, 212, 212);
+  font-weight: 600;
+  box-shadow: 3px 4px 4px rgb(55, 126, 173);
+background:rgb(27, 68, 83);border-radius: 8px;padding: 3px;}
+p {
+  color: whitesmoke;
+  font-style: italic;
+}
+.container {
+  max-width: 100%;
+  min-height: 625px;
+  /* padding: 0 30px; */
+  /* margin: 10px 0; */
+  background: rgb(192, 187, 187);
+  
+}
+.parentc {
+  display: flex;
+  justify-content: space-evenly;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 0;
+  background: darkslategrey;
+  border-radius: 15px;
+  position: fixed;
+  z-index: -1;
+}
+.nav {
+  padding: 10px 15px;
+  
+}
+.nav a {
+  color: antiquewhite;
+  list-style: none;
+  font-size: 20px;
+  padding: 0 8px;
+  text-decoration: none;
+}
+.nav a:hover{color: gainsboro;border-bottom: 1px solid darkcyan;}
+h1 {
+  color: antiquewhite;
+  padding: 0 15px;
+}
+
+.inputcity {
+  margin: 40px 0;
+  text-align: center;
+  position: relative;
+}
+.input01 {
+  border-radius: 20px;
+  width: 900px;
+  height: 45px;
+  background: darkslategrey;
+  color: aliceblue;
+  box-shadow: 2px 5px 5px rgb(7, 139, 100);
+}
+.input01::placeholder {
+  padding: 0 10px;
+  color: rgb(221, 218, 213);
+}
+.input01 {
+  padding: 0 20px;
+  border: 1px solid;
+}
+
+.input02 {
+  border-radius: 20px;
+  width: 100px;
+  height: 39px;
+  position: absolute;
+  margin: 3px -103px;
+  background: rgb(13, 167, 120);
+  border: none;
+}
+.input02:active {
+  translate: 3px;
+}
+.input02:hover {
+  background: rgb(57, 226, 175);
+}
+
+.input03 {
+  width: 30px;
+  height: 30px;
+  font-size: 20px;
+  position: absolute;
+  margin: -323px 270px;
+  border: none;
+  border-radius: 4px;
+  box-shadow: 1px 2px 2px rgb(7, 139, 100);
+}
+.input03:hover {
+  background: rgb(223, 2, 2);
+}
+
